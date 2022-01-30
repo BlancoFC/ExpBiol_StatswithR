@@ -45,11 +45,11 @@ Programming languages are a kind of computer languages that comprises a set of i
 You do not even have to deal with the interpreter. You can tell the computer what to do through an IDE (Integrated Development Environment).The IDE as the name describes it is a user interface that integrates functionalities needed for effective communication when speaking R. The IDE we will use is R Studio, arguably the best IDE for R. 
 
 
-# R Studio
+## R Studio
 
 This is to date, the most user-friendly IDE for R and one that makes our life easy. R Studio significantly helps in lowering the learning curve for you to start talking R.
 
-## Installation
+### Installation
 
 I assume you all are familiarised with R and R Studio from the session given on GS1. If you need a refresher, now is a good time to watch the recorded session again.
 
@@ -84,7 +84,7 @@ Then we have several other tabs. I will go over the ones you will use the most:
 
 - History: this is a log of all the commands you have given the interpreter to execute. This is useful to keep a log, but also to recover something we might have forgotten to write in our script. It is searchable and has the option to send to either the console or the source file.
 
-## Settings
+### Settings
 
 As we mentioned above there are a few things you can do to customize your R Studio, but first let us change the settings of what it remembers from session to session to avoid unintended issues.
 

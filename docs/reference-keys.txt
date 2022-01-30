@@ -13,3 +13,10 @@ bookdownrender_bookindex.rmd
 learning-to-talk-r
 what-is-r
 this-is-a-sample-book-written-in-markdown.-you-can-use-anything-that-pandocs-markdown-supports-e.g.-a-math-equation-a2-b2-c2.
+scheme-of-packages-and-functions
+why-use-r
+how-easy-it-is-to-learn-to-talk-r
+r-studio
+installation
+insert-r-console-with-panels
+settings
