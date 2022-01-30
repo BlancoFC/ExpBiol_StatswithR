@@ -9,3 +9,7 @@ applications
 example-one
 example-two
 final-words
+bookdownrender_bookindex.rmd
+learning-to-talk-r
+what-is-r
+this-is-a-sample-book-written-in-markdown.-you-can-use-anything-that-pandocs-markdown-supports-e.g.-a-math-equation-a2-b2-c2.
